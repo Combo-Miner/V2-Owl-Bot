@@ -1,0 +1,14 @@
+{
+    "token": "",
+    "prefix": "+",
+    "developer_name": "UPR",
+    "ownerID" : "", 
+    "owner" : [""],
+    "logchannelid": "",
+    "DEFAULT_COLOR": "RED",
+    "color": "#4800ff",
+    "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations**",
+    "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+    "mongooseConnectionString": ""
+}
+
